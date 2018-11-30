@@ -1,5 +1,5 @@
 
-<img src="files/sas.png">
+<img src="https://github.com/lualopezpe/sas/blob/master/sas.png">
 
 ## CINF02- COSMOS
 
