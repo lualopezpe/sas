@@ -20,17 +20,6 @@ run;
 
     SAS Connection established. Subprocess id is 2724
 
-</style>
-</head>
-<body class="l body">
-<div style="padding-bottom: 8px; padding-top: 1px">
-<div id="IDX" class="systitleandfootercontainer" style="border-spacing: 1px">
-<p><span class="c systemtitle">The SAS System</span> </p>
-</div>
-<div class="proc_title_group">
-<p class="c proctitle">The CONTENTS Procedure</p>
-</div>
-<div style="padding-bottom: 8px; padding-top: 1px">
 <table class="table" style="border-spacing: 0" aria-label="Directory Information">
 <caption aria-label="Directory Information"></caption>
 <colgroup><col/><col/></colgroup>
