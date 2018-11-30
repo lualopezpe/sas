@@ -19,7 +19,7 @@ run;
 ```
 
     SAS Connection established. Subprocess id is 2724
-* { font-size: 9pt; }
+
 <table class="table" style="border-spacing: 0" aria-label="Directory Information">
 <caption aria-label="Directory Information"></caption>
 <colgroup><col/><col/></colgroup>
